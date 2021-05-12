@@ -191,6 +191,17 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Is_Awesome__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Check if this opp is awesome</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Check if this opp is awesome</inlineHelpText>
+        <label>Is Awesome</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>LeadSource</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
